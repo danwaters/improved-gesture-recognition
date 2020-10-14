@@ -19,14 +19,12 @@ Contributors: TabashumThasina, Wise61, arifahmed420, danwaters
 * As our dataset consists of only six users, subject-wise will help to improve the overall accuracy when testing on a new user.
 * We chose group kfold because it helps reduce bias between our training and test sets.
 
-![TensorBoard]
-(url)
+![TensorBoard](https://github.com/danwaters/improved-gesture-recognition/blob/main/Images/tensorboard.png)
 
 ## Subject-Wise Cross Validation Results
 * After performing hypertuning and validation techniques, we were able to get an accuracy of approximately 97%.
 
-![Confusion matrix]
-(url)
+![Confusion matrix](https://github.com/danwaters/improved-gesture-recognition/blob/main/Images/confusion-matrix.png)
 
 
 
